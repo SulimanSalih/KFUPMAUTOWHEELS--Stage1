@@ -1,5 +1,6 @@
-# KFUPMAUTOWHEELS--Stage1
+# KFUPMAUTOWHEELS-Stage 1
 # Competition Submission Read Me
+![image](https://github.com/SulimanSalih/KFUPMAUTOWHEELS--Stage1/assets/108358496/d6eec892-a7b1-4839-b83c-e7ed3c3dcf50)
 
 ## Overview
 Welcome to our competition submission! This package contains the code and a recorded video of our execution for the competition. Below are some key points to note regarding our submission:
