@@ -30,6 +30,7 @@ To run the code successfully, please ensure you have the following dependencies 
 - [YOLOv8](https://docs.ultralytics.com/quickstart/)
 - torch
 - numpy
+- 
 **- cv2
 You can install YOLOv8 and its dependencies from the following link:
 [YOLOv8 and models weights](https://drive.google.com/drive/folders/1a5cZfxemTJMMAq51wtCSkZUDMenIBbD6?usp=sharing)**
