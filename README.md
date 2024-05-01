@@ -30,11 +30,9 @@ To run the code successfully, please ensure you have the following dependencies 
 - [YOLOv8](https://docs.ultralytics.com/quickstart/)
 - torch
 - numpy
-**
-- cv2
+**- cv2
 You can install YOLOv8 and its dependencies from the following link:
-[YOLOv8 and models weights](https://drive.google.com/drive/folders/1a5cZfxemTJMMAq51wtCSkZUDMenIBbD6?usp=sharing)
-**
+[YOLOv8 and models weights](https://drive.google.com/drive/folders/1a5cZfxemTJMMAq51wtCSkZUDMenIBbD6?usp=sharing)**
 ## File Descriptions:
 1. SDCS_Main
    This file is the main script responsible for motion and speed control through PID control. It contains the AI details and practicalities based on distance, colors, and subsequently stopping or moving away.
