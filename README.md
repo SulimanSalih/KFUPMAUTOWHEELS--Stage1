@@ -13,7 +13,7 @@ You will find in this repo, our competition submission! This package contains th
 - The testing was conducted on version 2.16 of Quanser Interactive Labs Software.
 - We utilized the primary Quanser computer in the Qcar Lab for testing.
 - YOLOv8s was used for detecting the obstacle (cones) and detecting the stop sign.
-- 
+
 
 ## Results
 - The results of our testing met all competition requirements.
@@ -53,7 +53,10 @@ You can install YOLOv8 and its dependencies from the following link:
 Extra : the following files: movement.py, cone.py, YOLOLOGIC.py
    These are a set of files used or to be called upon to perform various independent tasks they are not neccesary for the main code to run, it was only for testing our new methods before using them in the main file.
 
+## IMPORTANT 
+- We Used 2 seperate Yolov8 models, the two files are part of this repo and you can download them, it is important that these two .pt files are there in same root of the folder of the SDCS_Main.py
 
+  
 Messing around with Control Systems has been a blast. It's like being in a video game, but way cooler 'cause it's real life!
 This challenge has taught us a ton about making split-second decisions, which we're sure will come in handy down the road.
 Plus, teaming up with folks from all majors has been a blast. Who knew self-driving cars could bring so many cool people together?
