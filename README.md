@@ -41,6 +41,10 @@ To run the code successfully, please ensure you have the following dependencies 
 **- cv2
 You can install YOLOv8 and its dependencies from the following link:
 [YOLOv8 and models weights](https://drive.google.com/drive/folders/1a5cZfxemTJMMAq51wtCSkZUDMenIBbD6?usp=sharing)**
+
+## IMPORTANT 
+- We Used 2 seperate Yolov8 models, the two files are part of this repo but you need to download them from GDrive link above, it is important that these two .pt files are there in same root of the folder of the SDCS_Main.py
+
 ## File Descriptions:
 1. SDCS_Main
    This file is the main script responsible for motion and speed control through PID control. It contains the AI details and practicalities based on distance, colors, and subsequently stopping or moving away.
@@ -53,8 +57,6 @@ You can install YOLOv8 and its dependencies from the following link:
 Extra : the following files: movement.py, cone.py, YOLOLOGIC.py
    These are a set of files used or to be called upon to perform various independent tasks they are not neccesary for the main code to run, it was only for testing our new methods before using them in the main file.
 
-## IMPORTANT 
-- We Used 2 seperate Yolov8 models, the two files are part of this repo and you can download them, it is important that these two .pt files are there in same root of the folder of the SDCS_Main.py
 
   
 Messing around with Control Systems has been a blast. It's like being in a video game, but way cooler 'cause it's real life!
